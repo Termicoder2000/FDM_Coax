@@ -4,7 +4,7 @@
 
 This project models the cross-section of a coaxial cable with the finite difference method (FDM). It solves for the electric potential and magnetic vector potential, derives the electric field and magnetic flux density, and estimates the capacitance per unit length, inductance per unit length, and characteristic impedance.
 
-The model uses elliptical inner and outer conductors and a homogeneous dielectric. It also calculates reference values using the standard analytical formulas for a circular coaxial cable.
+The model can use elliptical inner and outer conductors and a homogeneous dielectric. It also calculates reference values using the standard analytical formulas for a circular coaxial cable.
 
 ## Requirements
 
