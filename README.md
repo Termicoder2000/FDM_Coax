@@ -45,5 +45,3 @@ Edit these values to explore other cross-sections and excitations. The geometry 
 ## Notes
 
 This is a two-dimensional, static field model. It does not include frequency-dependent skin effect, dielectric or conductor losses, or propagation effects. The analytical reference formulas assume circular conductors, so they are only a rough comparison for the elliptical geometry used by the numerical model.
-
-The MATLAB script was transcribed and normalized from the code appendix in `Nils_Hepp.pdf`.
